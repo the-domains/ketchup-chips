@@ -1,0 +1,14 @@
+layout_spectrum: 0.2819214544724673
+typography_spectrum: 0.08041656133718789
+color:
+  brandStrength: 0.9387159759644419
+  lightness: 0.8812734219245613
+  saturation: 0.5809087702073157
+  rhythmicContrast: 0.9073120635002851
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: ketchup chips
